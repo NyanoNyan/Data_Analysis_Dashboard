@@ -13,6 +13,7 @@ s5 = os.environ['DB_HOST']
 s6 = os.environ['DB_PORT']
 
 # change database name
+# DB_Name should be your database name
 
 conn = pg2.connect(database= DB_Name, user=s3, password=s4,
                    host=s5, port=s6)
