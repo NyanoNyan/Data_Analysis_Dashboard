@@ -5,4 +5,4 @@ Dashboard of Data analysis from SQL Database
 
 - Dashboard Link: https://nyantest5050.herokuapp.com/
 
-<img src="dashboard_pic.jpg" width="400">
+<img src="dashboard_pic.jpg" width="650">
