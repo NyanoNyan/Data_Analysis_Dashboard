@@ -1,7 +1,8 @@
 # Data_Analysis_Dashboard
-**Dashboard of Data analysis from SQL Database**
+**Interactive dashboard**
 
 - Looked into a DVD rental database (PostgreSQL) and queried for film data, ratings, genres etc.
+- Analyzed the data
 
 - **Dashboard Link:** https://nyantest5050.herokuapp.com/
 
