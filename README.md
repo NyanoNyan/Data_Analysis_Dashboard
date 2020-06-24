@@ -3,7 +3,7 @@
 - Looked into a DVD rental database (PostgreSQL) and queried for film data, ratings, genres etc.
 - Analyzed the data
 
-- **Dashboard Link:** <a href="https://nyantest5050.herokuapp.com/">3) </a>
+- <a href="https://nyantest5050.herokuapp.com/">**Dashboard Link:**  </a>
 
 <img src="dashboard_pic.jpg" width="650">
 
