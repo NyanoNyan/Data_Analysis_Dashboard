@@ -3,6 +3,7 @@
 **Interactive dashboard**
 
 - Looked into a DVD rental database (PostgreSQL) and queried for film data, ratings, genres etc.
+
 - Analyzed the data
 
 - <a href="https://nyantest5050.herokuapp.com/">Dashboard Link  </a>
